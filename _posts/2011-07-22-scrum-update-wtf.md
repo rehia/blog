@@ -27,7 +27,7 @@ J&rsquo;avoue avoir eu l&rsquo;impression que le temps s&rsquo;était arrêté p
 Le terme « commit », qui signifie « engagement » en français, est présent 7 fois dans le Scrum Guide (avant cette dernière version). Le Scrum Guide fait même référence à la petite fable du cochon et de la poule qui veulent monter un restaurant, pour (parfaitement) bien illustrer la différence entre l&rsquo;engagement et l&rsquo;implication.
 
 <p style="text-align: center;">
-  <a href="http://blog.avoustin.com/scrum-update-wtf/scrumtoon/" rel="attachment wp-att-203"><img class="aligncenter size-full wp-image-203" title="scrumtoon" src="http://blog.avoustin.com/wp-content/upload/scrumtoon.jpg" alt="" width="469" height="165" srcset="http://blog.avoustin.com/wp-content/upload/scrumtoon.jpg 625w, http://blog.avoustin.com/wp-content/upload/scrumtoon-300x105.jpg 300w" sizes="(max-width: 469px) 100vw, 469px" /></a>
+  <a href="{{ site.baseurl }}/scrum-update-wtf/scrumtoon/" rel="attachment wp-att-203"><img class="aligncenter size-full wp-image-203" title="scrumtoon" src="{{ site.baseurl }}/wp-content/upload/scrumtoon.jpg" alt="" width="469" height="165" srcset="{{ site.baseurl }}/wp-content/upload/scrumtoon.jpg 625w, {{ site.baseurl }}/wp-content/upload/scrumtoon-300x105.jpg 300w" sizes="(max-width: 469px) 100vw, 469px" /></a>
 </p>
 
 L&rsquo;engagement est donc central dans Scrum, et on le retrouve à tous les étages :

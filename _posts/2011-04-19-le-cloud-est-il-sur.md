@@ -22,7 +22,7 @@ tags:
   - veille
 ---
 
-[<img class="alignleft size-full wp-image-127" style="margin-top: 10px; margin-bottom: 10px; margin-left: 20px; margin-right: 20px;" title="Cloud et sécurité" src="http://blog.avoustin.com/wp-content/upload/magnifying_glass_cloud_200.jpg" alt="" width="200" height="150" />](http://blog.avoustin.com/le-cloud-est-il-sur)J’ai assisté jeudi dernier à une conférence sur le **Cloud** et notamment le SaaS, destinée aux PME de la région de Montpellier. Les intervenants se sont succédés pour tenter d’expliquer, voire de vulgariser le Cloud. En cela la conférence s’adressait à des néophytes du Cloud souhaitant savoir ce que les solutions en mode SaaS pouvait leur apporter.
+[<img class="alignleft size-full wp-image-127" style="margin-top: 10px; margin-bottom: 10px; margin-left: 20px; margin-right: 20px;" title="Cloud et sécurité" src="{{ site.baseurl }}/wp-content/upload/magnifying_glass_cloud_200.jpg" alt="" width="200" height="150" />]({{ site.baseurl }}/le-cloud-est-il-sur)J’ai assisté jeudi dernier à une conférence sur le **Cloud** et notamment le SaaS, destinée aux PME de la région de Montpellier. Les intervenants se sont succédés pour tenter d’expliquer, voire de vulgariser le Cloud. En cela la conférence s’adressait à des néophytes du Cloud souhaitant savoir ce que les solutions en mode SaaS pouvait leur apporter.
 
 Évidemment, la session de questions-réponses a mis en exergue quelques inquiétudes liées à **la sécurité proposée dans le Cloud**. La plus persistante d’entre elles, entendue lors de toute conférence qui traite le sujet Cloud, est liée au principe de confier ses données à un tiers. L’apogée a été atteinte lorsque le sujet a débordé sur le fameux Patriot Act américain.<!--more-->
 

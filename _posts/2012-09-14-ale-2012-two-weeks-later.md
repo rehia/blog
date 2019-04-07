@@ -20,7 +20,7 @@ tags:
   - OSSD
 ---
 
-<a href="http://blog.avoustin.com/ale-2012-two-weeks-later/img_0859/" rel="attachment wp-att-333"><img class="alignleft size-medium wp-image-333" title="Human tower ALE" src="http://blog.avoustin.com/wp-content/upload/IMG_0859-190x300.jpg" alt="" width="190" height="300" srcset="http://blog.avoustin.com/wp-content/upload/IMG_0859-190x300.jpg 190w, http://blog.avoustin.com/wp-content/upload/IMG_0859-649x1024.jpg 649w, http://blog.avoustin.com/wp-content/upload/IMG_0859.jpg 724w" sizes="(max-width: 190px) 100vw, 190px" /></a>Two weeks ago, I was part of the 2nd [UNconference](http://en.wikipedia.org/wiki/Unconference) of the ALE network : <a href="http://ale2012.alenetwork.eu/" target="_blank">ALE 2012</a>. This post is a summary of how I lived this 3 days. And it&rsquo;s written in english so I can share it with other ALE participants.<!--more-->
+<a href="{{ site.baseurl }}/ale-2012-two-weeks-later/img_0859/" rel="attachment wp-att-333"><img class="alignleft size-medium wp-image-333" title="Human tower ALE" src="{{ site.baseurl }}/wp-content/upload/IMG_0859-190x300.jpg" alt="" width="190" height="300" srcset="{{ site.baseurl }}/wp-content/upload/IMG_0859-190x300.jpg 190w, {{ site.baseurl }}/wp-content/upload/IMG_0859-649x1024.jpg 649w, {{ site.baseurl }}/wp-content/upload/IMG_0859.jpg 724w" sizes="(max-width: 190px) 100vw, 190px" /></a>Two weeks ago, I was part of the 2nd [UNconference](http://en.wikipedia.org/wiki/Unconference) of the ALE network : <a href="http://ale2012.alenetwork.eu/" target="_blank">ALE 2012</a>. This post is a summary of how I lived this 3 days. And it&rsquo;s written in english so I can share it with other ALE participants.<!--more-->
 
 I tried to write a first blog post right after ALE, but my mind was not clear enough about what really struck me at this conference. It&rsquo;s time to try making this retrospective, trying to be as honest as I can.
 
@@ -87,6 +87,6 @@ Now I&rsquo;d like to thank first the organizers, all the people I met, the craz
 See you next year (if it&rsquo;s not too far) 🙂 !
 
 <p style="text-align: center;">
-  <a href="http://blog.avoustin.com/ale-2012-two-weeks-later/ale-rest/" rel="attachment wp-att-335"><img class="aligncenter  wp-image-335" title="ale rest" src="http://blog.avoustin.com/wp-content/upload/ale-rest-300x179.png" alt="" width="400" height="239" srcset="http://blog.avoustin.com/wp-content/upload/ale-rest-300x179.png 300w, http://blog.avoustin.com/wp-content/upload/ale-rest.png 491w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a href="{{ site.baseurl }}/ale-2012-two-weeks-later/ale-rest/" rel="attachment wp-att-335"><img class="aligncenter  wp-image-335" title="ale rest" src="{{ site.baseurl }}/wp-content/upload/ale-rest-300x179.png" alt="" width="400" height="239" srcset="{{ site.baseurl }}/wp-content/upload/ale-rest-300x179.png 300w, {{ site.baseurl }}/wp-content/upload/ale-rest.png 491w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>
 

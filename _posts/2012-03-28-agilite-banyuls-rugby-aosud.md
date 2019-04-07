@@ -21,7 +21,7 @@ tags:
 ---
 
 <div id="attachment_246" style="width: 220px" class="wp-caption alignleft">
-  <a href="http://blog.avoustin.com/agilite-banyuls-rugby-aosud/banyuls/" rel="attachment wp-att-246"><img aria-describedby="caption-attachment-246" class=" wp-image-246 " title="Banyuls" src="http://blog.avoustin.com/wp-content/upload/Banyuls-300x239.jpg" alt="" width="210" height="167" srcset="http://blog.avoustin.com/wp-content/upload/Banyuls-300x239.jpg 300w, http://blog.avoustin.com/wp-content/upload/Banyuls-1024x816.jpg 1024w" sizes="(max-width: 210px) 100vw, 210px" /></a>
+  <a href="{{ site.baseurl }}/agilite-banyuls-rugby-aosud/banyuls/" rel="attachment wp-att-246"><img aria-describedby="caption-attachment-246" class=" wp-image-246 " title="Banyuls" src="{{ site.baseurl }}/wp-content/upload/Banyuls-300x239.jpg" alt="" width="210" height="167" srcset="{{ site.baseurl }}/wp-content/upload/Banyuls-300x239.jpg 300w, {{ site.baseurl }}/wp-content/upload/Banyuls-1024x816.jpg 1024w" sizes="(max-width: 210px) 100vw, 210px" /></a>
   
   <p id="caption-attachment-246" class="wp-caption-text">
     Vue de l'hôtel
@@ -43,7 +43,7 @@ Personnellement, j&rsquo;utilise jusque là les points. Mais il est vrai que les
 J&rsquo;ai poursuivi avec une session « crevage d&rsquo;abcès » sur le combat de chapelles Scrum vs XP. De combat il n&rsquo;y a eu, et le débat a vite tourné à la question « Qu&rsquo;entendons-nous par Agilité » ? Quelles valeurs voulons-nous faire passer ? ». Nous avons notamment pointé du doigt que les objectifs de l&rsquo;une et de l&rsquo;autre approche sont différents. Scrum a pour objectif d&rsquo;améliorer la façon de concevoir et réaliser des produits, donc plutôt orienté business (mais pas que). Et XP a pour objectif le changement social, et que tout le monde (clients, développeurs, managers, etc.) y trouvent son compte. Certes Scrum est ce qu&rsquo;il se vend le mieux, <a title="Stats Google Trends Scrum vs Kanban" href="http://past.is/jPKy" target="_blank">même si Kanban se rapproche, notamment en France</a>. Le problème est que certains consommateurs de Scrum s&rsquo;arrêtent aux pratiques et font de l&rsquo;augmentation de la productivité un objectif.
 
 <div id="attachment_245" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://blog.avoustin.com/agilite-banyuls-rugby-aosud/scrum-vs-xp/" rel="attachment wp-att-245"><img aria-describedby="caption-attachment-245" class="size-medium wp-image-245" title="Scrum vs XP" src="http://blog.avoustin.com/wp-content/upload/Scrum-vs-XP-300x224.jpg" alt="" width="300" height="224" srcset="http://blog.avoustin.com/wp-content/upload/Scrum-vs-XP-300x224.jpg 300w, http://blog.avoustin.com/wp-content/upload/Scrum-vs-XP-1024x764.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="{{ site.baseurl }}/agilite-banyuls-rugby-aosud/scrum-vs-xp/" rel="attachment wp-att-245"><img aria-describedby="caption-attachment-245" class="size-medium wp-image-245" title="Scrum vs XP" src="{{ site.baseurl }}/wp-content/upload/Scrum-vs-XP-300x224.jpg" alt="" width="300" height="224" srcset="{{ site.baseurl }}/wp-content/upload/Scrum-vs-XP-300x224.jpg 300w, {{ site.baseurl }}/wp-content/upload/Scrum-vs-XP-1024x764.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-245" class="wp-caption-text">
     Du monde autour de cette question !

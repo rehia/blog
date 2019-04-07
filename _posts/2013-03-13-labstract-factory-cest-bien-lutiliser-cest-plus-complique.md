@@ -30,7 +30,7 @@ Simple avez-vous dit ? Pas tout à fait, car « a&rsquo;men donné », comme o
 
 Je dirais même bref rappel. Voilà une image qui résume à elle seule ce qu&rsquo;est une abstract factory :
 
-[<img class="aligncenter size-full wp-image-397" alt="abstract factory" src="http://blog.avoustin.com/wp-content/upload/abstract-factory.png" width="504" height="385" srcset="http://blog.avoustin.com/wp-content/upload/abstract-factory.png 504w, http://blog.avoustin.com/wp-content/upload/abstract-factory-300x229.png 300w" sizes="(max-width: 504px) 100vw, 504px" />](http://blog.avoustin.com/wp-content/upload/abstract-factory.png)
+[<img class="aligncenter size-full wp-image-397" alt="abstract factory" src="{{ site.baseurl }}/wp-content/upload/abstract-factory.png" width="504" height="385" srcset="{{ site.baseurl }}/wp-content/upload/abstract-factory.png 504w, {{ site.baseurl }}/wp-content/upload/abstract-factory-300x229.png 300w" sizes="(max-width: 504px) 100vw, 504px" />]({{ site.baseurl }}/wp-content/upload/abstract-factory.png)
 
 Pour en savoir plus, j&rsquo;ai trouvé ici un meta-lien exceptionnel : <a title="Abstract Factory dans Google" href="http://past.is/d1ZR" target="_blank">http://past.is/d1ZR</a>.
 
@@ -68,7 +68,7 @@ Vu comme ça, cela parait faire un grand nombre de choses à savoir du point de 
 
 L&rsquo;idée de cette idée « ultime », si tant est qu&rsquo;elle le soit, c&rsquo;est de faire croire à l&rsquo;appelant qu&rsquo;il continue de collaborer avec une factory, et de faire en sorte que notre meta-factory agisse comme une factory normale. On va en réalité donner un peu plus de responsabilité à notre fameuse meta factory. Voici le diagramme ajusté :
 
-[<img class="aligncenter size-full wp-image-400" alt="meta factory" src="http://blog.avoustin.com/wp-content/upload/meta-factory1.png" width="500" height="375" srcset="http://blog.avoustin.com/wp-content/upload/meta-factory1.png 500w, http://blog.avoustin.com/wp-content/upload/meta-factory1-300x225.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://blog.avoustin.com/wp-content/upload/meta-factory1.png)
+[<img class="aligncenter size-full wp-image-400" alt="meta factory" src="{{ site.baseurl }}/wp-content/upload/meta-factory1.png" width="500" height="375" srcset="{{ site.baseurl }}/wp-content/upload/meta-factory1.png 500w, {{ site.baseurl }}/wp-content/upload/meta-factory1-300x225.png 300w" sizes="(max-width: 500px) 100vw, 500px" />]({{ site.baseurl }}/wp-content/upload/meta-factory1.png)
 
 Comme vous le voyez, on a fait apparaître une interface, en plus de l&rsquo;abstract factory. L&rsquo;appelant ne collabore plus avec l&rsquo;abstract factory, mais avec cette interface. Autre changement : la meta-factory implémente cette nouvelle interface, agissant ainsi comme une vraie factory. Les implémentations de chaque méthode du contrat consiste donc à déterminer la bonne implémentation à utiliser, et à utiliser l&rsquo;instance créée comme une instance de l&rsquo;abstract factory. Du point de vue de l&rsquo;appelant, cela donne ceci :
 

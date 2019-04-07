@@ -49,7 +49,7 @@ Au delà de ce que peut proposer Wikipedia, le format de description met en avan
 
 Tout cela donne une trame qu&rsquo;il convient d&rsquo;alimenter en effectuant un gros travail de recherche. En cela, la définition va plus loin que celle que peut fournir Wikipedia, qui n&rsquo;est qu&rsquo;une version affinée par le savoir des auteurs successifs, et qui ne va pas au delà. Certes, le référentiel est à l&rsquo;origine écrit par une seule personne, mais c&rsquo;est ce modèle qui a été choisi pour garantir une cohérence aussi bien sur le fond que sur la forme. Il est de plus possible et même conseillé de donner son feedback sur une pratique précise ou sur le référentiel en général.
 
-<a rel="attachment wp-att-135" href="http://blog.avoustin.com/je-soutiens-le-referentiel-des-pratiques-agiles/feedback-et-support/"><img class="aligncenter size-full wp-image-135" title="feedback et support" src="http://blog.avoustin.com/wp-content/upload/feedback-et-support.png" alt="" width="201" height="31" /></a>
+<a rel="attachment wp-att-135" href="{{ site.baseurl }}/je-soutiens-le-referentiel-des-pratiques-agiles/feedback-et-support/"><img class="aligncenter size-full wp-image-135" title="feedback et support" src="{{ site.baseurl }}/wp-content/upload/feedback-et-support.png" alt="" width="201" height="31" /></a>
 
 Je vous invite donc très vivement à ajouter cette URL dans vos favoris, pour vous référer au référentiel lorsque vous en ressentez le besoin : <http://referentiel.institut-agile.fr/>. Pour ma part, c&rsquo;est devenu un réflexe !
 
@@ -64,14 +64,14 @@ Pour les auteurs de blogs, **le souligneur** offre les mêmes fonctions que le d
 Pour ma part, j&rsquo;ai donc décidé de contribuer en faisant un maximum de pub pour le référentiel ! J&rsquo;ai donc créé **le très officieux badge : « Je soutiens le référentiel des pratiques agiles de l&rsquo;Institut ! »**. Si vous aussi souhaitez faire partie du « mouvement », n&rsquo;hésitez pas à télécharger l&rsquo;image et l&rsquo;accoler sur le pare-brise de votre blog, en n&rsquo;omettant pas, bien sûr, d&rsquo;ajouter sur l&rsquo;image le lien vers le référentiel !
 
 <p style="text-align: center;">
-  <a rel="attachment wp-att-165" href="http://blog.avoustin.com/je-soutiens-le-referentiel-des-pratiques-agiles/soutien-referentiel-2/"><img class="aligncenter size-full wp-image-165" title="soutien référentiel" src="http://blog.avoustin.com/wp-content/upload/soutien-référentiel1.png" alt="" width="134" height="103" /></a>
+  <a rel="attachment wp-att-165" href="{{ site.baseurl }}/je-soutiens-le-referentiel-des-pratiques-agiles/soutien-referentiel-2/"><img class="aligncenter size-full wp-image-165" title="soutien référentiel" src="{{ site.baseurl }}/wp-content/upload/soutien-référentiel1.png" alt="" width="134" height="103" /></a>
 </p>
 
 <p style="text-align: left;">
   Dans le même esprit, si votre blog ou votre site fait appel au <strong>souligneur</strong>, préférez ce second badge, un peu comme je viens de le faire !
 </p>
 
-<a rel="attachment wp-att-166" href="http://blog.avoustin.com/je-soutiens-le-referentiel-des-pratiques-agiles/powered-by-referentiel/"><img class="aligncenter size-full wp-image-166" title="powered by référentiel" src="http://blog.avoustin.com/wp-content/upload/powered-by-référentiel.png" alt="" width="134" height="103" /></a>
+<a rel="attachment wp-att-166" href="{{ site.baseurl }}/je-soutiens-le-referentiel-des-pratiques-agiles/powered-by-referentiel/"><img class="aligncenter size-full wp-image-166" title="powered by référentiel" src="{{ site.baseurl }}/wp-content/upload/powered-by-référentiel.png" alt="" width="134" height="103" /></a>
 
 En espérant voir le maximum de monde adhérer !
 

@@ -21,7 +21,7 @@ J&rsquo;avoue avoir été un peu déboussolé ! Plus de possibilité de _tuner_ 
 Aviez-vous remarquer le petit bouton « Options de l&rsquo;écran » ou « Screen settings » en haut à droite de la page d&rsquo;édition ?&#8230; Celui-ci !
 
 <p style="text-align: center;">
-  <a rel="attachment wp-att-107" href="http://blog.avoustin.com/wordpress-3-1-mais-ou-sont-passes-mes-meta-donnees/bouton-options-wordpress/"><img class="aligncenter size-full wp-image-107" title="bouton options wordpress" src="http://blog.avoustin.com/wp-content/upload/bouton-options-wordpress.png" alt="" width="745" height="308" srcset="http://blog.avoustin.com/wp-content/upload/bouton-options-wordpress.png 745w, http://blog.avoustin.com/wp-content/upload/bouton-options-wordpress-300x124.png 300w" sizes="(max-width: 745px) 100vw, 745px" /></a>
+  <a rel="attachment wp-att-107" href="{{ site.baseurl }}/wordpress-3-1-mais-ou-sont-passes-mes-meta-donnees/bouton-options-wordpress/"><img class="aligncenter size-full wp-image-107" title="bouton options wordpress" src="{{ site.baseurl }}/wp-content/upload/bouton-options-wordpress.png" alt="" width="745" height="308" srcset="{{ site.baseurl }}/wp-content/upload/bouton-options-wordpress.png 745w, {{ site.baseurl }}/wp-content/upload/bouton-options-wordpress-300x124.png 300w" sizes="(max-width: 745px) 100vw, 745px" /></a>
 </p>
 
 <p style="text-align: left;">
