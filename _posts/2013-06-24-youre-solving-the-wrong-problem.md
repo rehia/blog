@@ -24,7 +24,7 @@ tags:
 ---
 
 <div style="width: 266px" class="wp-caption alignleft">
-  <img class="  " alt="" src="http://upload.wikimedia.org/wikipedia/commons/9/92/Paul_maccready.jpg" width="256" height="204" />
+  <img class="  " alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_maccready.jpg" width="256" height="204" />
   
   <p class="wp-caption-text">
     Paul MacCready et l&rsquo;anneau de vitesse
