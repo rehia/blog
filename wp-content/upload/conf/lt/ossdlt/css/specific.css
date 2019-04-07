@@ -1,0 +1,13 @@
+.tweet {
+	-webkit-transform: scale(1.5); /* Saf3.1+, Chrome */
+	-moz-transform: scale(1.5); /* FF3.5+ */
+	-ms-transform: scale(1.5); /* IE9 */
+	-o-transform: scale(1.5); /* Opera 10.5+ */
+	transform: scale(1.5);
+}
+
+.reveal section img {
+	border:none;
+	background:transparent;
+	box-shadow:none;
+}

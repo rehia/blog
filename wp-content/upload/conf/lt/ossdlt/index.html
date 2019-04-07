@@ -1,0 +1,265 @@
+﻿<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Open Space Software Development - Jérôme Avoustin</title>
+
+		<meta name="description" content="J'ai vécu une expérience extraordinaire, en tout cas pour moi. J'aimerais vous faire un retour de tout ce que j'y ai appris !">
+		<meta name="author" content="Jérôme Avoustin">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+		
+		<link rel="stylesheet" href="css/specific.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+				<section>
+					<h1>Open Space Software Development</h1>
+					<p>&nbsp;</p>
+					<h3>Jérôme Avoustin</h3>
+					<p>
+						<small><a href="http://twitter.com/jeromeavoustin">@JeromeAvoustin</a></small>
+					</p>
+				</section>
+
+				<section>
+					<div>
+						<img src="logo.png" class="tweet"/>
+					</div>
+					<p>&nbsp;</p>
+					<div>
+						<img src="ale.png" class="tweet" />
+					</div>
+				</section>
+				
+				<section>
+					<section>
+						<h2>Can we as a (un)conference ship a working product from the first hour to the last hour and that is usable by real users from the very get-go ?</h2>
+					</section>
+					<section>
+						<h2>Can we ship working product ?</h2>
+					</section>
+					<section>
+						<h2>Can we ship clean code ?</h2>
+					</section>
+					<section>
+						<h2>Can we run our agile practices<br/>to the max ?</h2>
+					</section>
+					<section>
+						<h1>Are we really that agile ?</h1>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h2>Au départ, quelques règles...</h2>
+						<ul>
+							<li>Itération toutes les heures</li>
+							<li>Déploiement en prod toutes les heures</li>
+							<li>Toutes les pratiques agiles bienvenues</li>
+						</ul>
+						<img src="cd.jpg" width="60%" />
+					</section>
+					<section>
+						<h2>L'élément clé :</h2>
+						<h2>le thème de l'application</h2>
+						<p>&nbsp;</p>
+						<p>Application pour la conférence</p>
+						<h2>Feedback au MAXIMUM !</h2>
+						</ul>
+					</section>
+					<section>
+						<h2>Contexte technique</h2>
+						<ul>
+							<li>Java - Spring - MySQL</li>
+							<li>Git</li>
+							<li>Jenkins + plugin</li>
+							<li>Heroku</li>
+						</ul>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h2>Au final...</h2>
+						<ul>
+							<li>Développement en flux</li>
+							<li>Déploiement à chaque livraison de fonctionnalités</li>
+							<li>Chaque heure : stand up</li>
+						</ul>
+					</section>
+					<section>
+						<h2>En chiffres...</h2>
+						<ul>
+							<li>160 déploiements en test</li>
+							<li><strong>24 déploiements en production</strong></li>
+							<li>8 committers (dont certains en paires)</li>
+							<li>1649 lignes de code</li>
+							<li>9 fonctionnalités principales</li>
+							<li>18 personnes ont mis des commentaires</li>
+						</ul>
+					</section>
+					<section>
+						<h2>Des erreurs commises...</h2>
+						<ul>
+							<li>Application moyennement testée</li>
+							<li><strong>Des bugs livrés en prod !</strong></li>
+							<li>On a utilisé Java...</li>
+						</ul>
+					</section>
+					<section>
+						<h2>Les pratiques agiles utilisées...</h2>
+						<div style="float:left;width:50%">
+							<ul>
+								<li><strong>Déploiement continu</strong></li>
+								<li>Intégration continue</li>
+								<li>Pair Programming</li>
+								<li><strong>Standups</strong></li>
+								<li><strong>Rétrospectives</strong></li>
+								<li><strong>Management visuel</strong></li>
+								<li>Planning Game</li>
+								<li>Demo</li>
+							</ul>
+						</div>
+						<div style="float:left;width:50%">
+							<ul>
+								<li><strong>Feedback fréquent</strong></li>
+								<li>Client sur site</li>
+								<li>Adaptation permanente aux besoins</li>
+								<li>Walking Skeleton</li>
+								<li>YAGNI</li>
+								<li>KISS</li>
+								<li>Célébration</li>
+								<li>(trop) peu de TDD</li>
+							</ul>
+						</div>
+					</section>
+					<section>
+						<h2>Les pratiques oubliées en route...</h2>
+						<div>
+							<ul>
+								<li>TDD - BDD - ATDD</li>
+								<li>Tests unitaires</li>
+								<li>Refactoring</li>
+								<li>Design Simple</li>
+								<li>Limites de WIP</li>
+								<li>Revue de code</li>
+								<li>Métaphores</li>
+							</ul>
+						</div>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h1>Ce que j'ai appris</h1>
+					</section>
+					<section>
+						<blockquote>
+							Même si elle reste capable d'erreurs, une équipe de personnes passionnées par l'Agile est capable d'apprendre très vite
+						</blockquote>
+					</section>
+					<section>
+						<blockquote>
+							On obtient pas de feedback riche tant qu'on n'a pas mis en production
+						</blockquote>
+						<p>&nbsp;</p>
+						<blockquote class="fragment">
+							On n'imagine pas le plaisir qu'il y a à mettre en prod fréquemment
+						</blockquote>
+					</section>
+					<section>
+						<blockquote>
+							La pression du résultat peut pousser à oublier certains principes
+						</blockquote>
+					</section>
+				</section>
+				
+				<section>
+					<h1>Shipping is not the purpose.</h1>
+					<br/>
+					<h1 class="fragment roll-in">Learning is.</h1>
+				</section>
+				
+				<section>
+					<h1>MERCI !</h1>
+					<p>&nbsp;</p>
+					<p>
+						<a href="http://twitter.com/jeromeavoustin" target="blank">@JeromeAvoustin</a>
+					</p>
+					<p>
+						<a href="http://blog.avoustin.com" target="blank">Genba : http://blog.avoustin.com</a>
+					</p>
+					<p>&nbsp;</p>
+					<p>
+						<a href="http://bit.ly/ossdlt" target="blank">Slides sur : http://bit.ly/ossdlt</a>
+					</p>					
+					<p>&nbsp;</p>
+					<p>
+						<small><i>Réalisé avec <a href="http://lab.hakim.se/reveal-js/#/" target="blank">Reveal JS</a></i></small>
+					</p>
+				</section>
+				
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
