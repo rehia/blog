@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=102
 permalink: /wordpress-3-1-mais-ou-sont-passes-mes-meta-donnees/
+excerpt_separator: <!--more-->
 categories:
   - Non classé
 ---

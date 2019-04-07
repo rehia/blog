@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=388
 permalink: /labstract-factory-cest-bien-lutiliser-cest-plus-complique/
+excerpt_separator: <!--more-->
 Hide SexyBookmarks:
   - "0"
 Hide OgTags:

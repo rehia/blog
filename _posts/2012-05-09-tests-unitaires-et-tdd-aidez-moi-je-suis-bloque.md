@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=304
 permalink: /tests-unitaires-et-tdd-aidez-moi-je-suis-bloque/
+excerpt_separator: <!--more-->
 categories:
   - Agile
 tags:
@@ -16,7 +17,9 @@ tags:
   - testsunitaires
 ---
 
-<img class="alignleft" title="Logo Agile France" src="https://2012.conf.agile-france.org/conf.agile-france.org/wp-content/themes/twentyeleven-agilefrance/images/AgileFranceConference2012-logo.png" alt="" width="153" height="153" /> Les 24 et 25 mai prochains, j&rsquo;animerai une session pas tout à fait comme les autres, que j&rsquo;ai intitulée : <a title="Session Agile France" href="http://2012.conf.agile-france.org/conf.agile-france.org/index260f.html?speakers=tests-unitaires-et-tdd-je-suis-bloque-aidez-moi" target="_blank">« Tests unitaires et TDD : Aidez moi ! Je suis bloqué »</a>. Lors de cette session, je proposerai au public quelques situations que j&rsquo;ai rencontrées dans ma démarche d&rsquo;apprentissage du TDD, voire du BDD, et d&rsquo;écriture de tests unitaires, et que je ne sais toujours pas très bien résoudre&#8230;<!--more-->
+<img class="alignleft" title="Logo Agile France" src="https://2012.conf.agile-france.org/conf.agile-france.org/wp-content/themes/twentyeleven-agilefrance/images/AgileFranceConference2012-logo.png" alt="" width="153" height="153" />
+
+Les 24 et 25 mai prochains, j&rsquo;animerai une session pas tout à fait comme les autres, que j&rsquo;ai intitulée : <a title="Session Agile France" href="http://2012.conf.agile-france.org/conf.agile-france.org/index260f.html?speakers=tests-unitaires-et-tdd-je-suis-bloque-aidez-moi" target="_blank">« Tests unitaires et TDD : Aidez moi ! Je suis bloqué »</a>. Lors de cette session, je proposerai au public quelques situations que j&rsquo;ai rencontrées dans ma démarche d&rsquo;apprentissage du TDD, voire du BDD, et d&rsquo;écriture de tests unitaires, et que je ne sais toujours pas très bien résoudre&#8230;<!--more-->
 
 
 Vous l&rsquo;avez compris, ce n&rsquo;est pas moi qui apporterai la matière, c&rsquo;est-à-dire les réponses possibles à ces situations, mais le public ! Une session que je souhaite participative. Bien que je n&rsquo;aie jamais ni organisé ni même participé à ce type de session, je me suis lancé. Un peu dans la lignée de <a title="Le seul échec, c’est celui de ne pas apprendre" href="{{ site.baseurl }}/le-seul-echec-cest-celui-de-ne-pas-apprendre/" target="_blank">mes derniers billets de blog sur l&rsquo;importance de l&rsquo;échec</a>, j&rsquo;expérimente, je prend un risque, je me mets en danger&#8230; Car si effectivement, il n&rsquo;y a que peu de monde pour essayer de donner quelques éclairages, la session risque de ne pas durer très longtemps 🙂

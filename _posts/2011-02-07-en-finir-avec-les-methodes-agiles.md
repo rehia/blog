@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=85
 permalink: /en-finir-avec-les-methodes-agiles/
+excerpt_separator: <!--more-->
 categories:
   - Agile
 tags:

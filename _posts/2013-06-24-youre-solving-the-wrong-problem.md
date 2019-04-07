@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=425
 permalink: /youre-solving-the-wrong-problem/
+excerpt_separator: <!--more-->
 Hide SexyBookmarks:
   - "0"
 Hide OgTags:

@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=132
 permalink: /je-soutiens-le-referentiel-des-pratiques-agiles/
+excerpt_separator: <!--more-->
 image: /wp-content/upload/soutien-référentiel1.png
 categories:
   - Agile

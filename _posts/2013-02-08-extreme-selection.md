@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=378
 permalink: /extreme-selection/
+excerpt_separator: <!--more-->
 Hide SexyBookmarks:
   - "0"
 Hide OgTags:
@@ -21,7 +22,9 @@ tags:
   - session
 ---
 
-[<img class="alignleft size-medium wp-image-380" alt="IMG_0892[1]" src="{{ site.baseurl }}/wp-content/upload/IMG_08921-300x224.jpg" width="300" height="224" srcset="{{ site.baseurl }}/wp-content/upload/IMG_08921-300x224.jpg 300w, {{ site.baseurl }}/wp-content/upload/IMG_08921-1024x764.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />]({{ site.baseurl }}/wp-content/upload/IMG_08921.jpg)Dans la préparation d&rsquo;une conférence, il y a une étape importante : la sélection des sessions. Cette étape est toujours délicate, et il doit exister autant de façons de faire que d&rsquo;équipes d&rsquo;organisation. Pour l&rsquo;édition 2012 de l&rsquo;Agile Tour Montpellier, j&rsquo;ai proposé une approche inspirée par une pratique d&rsquo;estimation qui avait été présentée par Jonathan Scher ([@jonathan_scher](https://twitter.com/jonathan_scher)) et Guillaume Duquesnay ([@duquesnay](https://twitter.com/duquesnay)) lors du dernier Agile France : eXtreme Quotation. Comment passer, allez-vous me demander, d&rsquo;une pratique d&rsquo;estimation à une pratique de sélection de sessions ? C&rsquo;est tout l&rsquo;enjeu de ce billet 🙂<!--more-->
+[<img class="alignleft size-medium wp-image-380" alt="IMG_0892[1]" src="{{ site.baseurl }}/wp-content/upload/IMG_08921-300x224.jpg" width="300" height="224" srcset="{{ site.baseurl }}/wp-content/upload/IMG_08921-300x224.jpg 300w, {{ site.baseurl }}/wp-content/upload/IMG_08921-1024x764.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />]({{ site.baseurl }}/wp-content/upload/IMG_08921.jpg)
+
+Dans la préparation d&rsquo;une conférence, il y a une étape importante : la sélection des sessions. Cette étape est toujours délicate, et il doit exister autant de façons de faire que d&rsquo;équipes d&rsquo;organisation. Pour l&rsquo;édition 2012 de l&rsquo;Agile Tour Montpellier, j&rsquo;ai proposé une approche inspirée par une pratique d&rsquo;estimation qui avait été présentée par Jonathan Scher ([@jonathan_scher](https://twitter.com/jonathan_scher)) et Guillaume Duquesnay ([@duquesnay](https://twitter.com/duquesnay)) lors du dernier Agile France : eXtreme Quotation. Comment passer, allez-vous me demander, d&rsquo;une pratique d&rsquo;estimation à une pratique de sélection de sessions ? C&rsquo;est tout l&rsquo;enjeu de ce billet 🙂<!--more-->
 
 ## eXtreme Quotation
 

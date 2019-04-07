@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=15
 permalink: /generer-un-postback-en-asp-net/
+excerpt_separator: <!--more-->
 categories:
   - ASP.NET
 tags:

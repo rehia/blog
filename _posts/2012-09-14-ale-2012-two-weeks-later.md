@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=329
 permalink: /ale-2012-two-weeks-later/
+excerpt_separator: <!--more-->
 Hide SexyBookmarks:
   - "0"
 Hide OgTags:
@@ -20,7 +21,9 @@ tags:
   - OSSD
 ---
 
-<a href="{{ site.baseurl }}/ale-2012-two-weeks-later/img_0859/" rel="attachment wp-att-333"><img class="alignleft size-medium wp-image-333" title="Human tower ALE" src="{{ site.baseurl }}/wp-content/upload/IMG_0859-190x300.jpg" alt="" width="190" height="300" srcset="{{ site.baseurl }}/wp-content/upload/IMG_0859-190x300.jpg 190w, {{ site.baseurl }}/wp-content/upload/IMG_0859-649x1024.jpg 649w, {{ site.baseurl }}/wp-content/upload/IMG_0859.jpg 724w" sizes="(max-width: 190px) 100vw, 190px" /></a>Two weeks ago, I was part of the 2nd [UNconference](http://en.wikipedia.org/wiki/Unconference) of the ALE network : <a href="http://ale2012.alenetwork.eu/" target="_blank">ALE 2012</a>. This post is a summary of how I lived this 3 days. And it&rsquo;s written in english so I can share it with other ALE participants.<!--more-->
+<a href="{{ site.baseurl }}/ale-2012-two-weeks-later/img_0859/" rel="attachment wp-att-333"><img class="alignleft size-medium wp-image-333" title="Human tower ALE" src="{{ site.baseurl }}/wp-content/upload/IMG_0859-190x300.jpg" alt="" width="190" height="300" srcset="{{ site.baseurl }}/wp-content/upload/IMG_0859-190x300.jpg 190w, {{ site.baseurl }}/wp-content/upload/IMG_0859-649x1024.jpg 649w, {{ site.baseurl }}/wp-content/upload/IMG_0859.jpg 724w" sizes="(max-width: 190px) 100vw, 190px" /></a>
+
+Two weeks ago, I was part of the 2nd [UNconference](http://en.wikipedia.org/wiki/Unconference) of the ALE network : <a href="http://ale2012.alenetwork.eu/" target="_blank">ALE 2012</a>. This post is a summary of how I lived this 3 days. And it&rsquo;s written in english so I can share it with other ALE participants.<!--more-->
 
 I tried to write a first blog post right after ALE, but my mind was not clear enough about what really struck me at this conference. It&rsquo;s time to try making this retrospective, trying to be as honest as I can.
 

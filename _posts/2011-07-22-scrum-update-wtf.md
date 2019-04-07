@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=202
 permalink: /scrum-update-wtf/
+excerpt_separator: <!--more-->
 categories:
   - Agile
 tags:

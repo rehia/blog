@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=264
 permalink: /scrum-pastis-montpellier-4/
+excerpt_separator: <!--more-->
 categories:
   - Agile
 tags:

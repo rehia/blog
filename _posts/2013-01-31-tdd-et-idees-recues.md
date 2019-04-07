@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=367
 permalink: /tdd-et-idees-recues/
+excerpt_separator: <!--more-->
 Hide SexyBookmarks:
   - "0"
 Hide OgTags:
@@ -17,7 +18,9 @@ tags:
   - tdd
 ---
 
-[<img class="alignleft size-medium wp-image-372" alt="idee recue" src="{{ site.baseurl }}/wp-content/upload/idee-recue-300x219.png" width="300" height="219" srcset="{{ site.baseurl }}/wp-content/upload/idee-recue-300x219.png 300w, {{ site.baseurl }}/wp-content/upload/idee-recue.png 450w" sizes="(max-width: 300px) 100vw, 300px" />]({{ site.baseurl }}/wp-content/upload/idee-recue.png)Après une tournée qui m&rsquo;a mené aux Agile Tour de Marseille et Bordeaux, j&rsquo;ai éprouvé le besoin de faire un peu le point sur TDD, ou en tout cas sur ma compréhension de TDD. Je pense en effet qu&rsquo;il y a quelques idées reçues sur cette pratique qu&rsquo;il faut assez vite dépasser au risque de ne pas arriver à la maîtriser  C&rsquo;est encore loin d&rsquo;être le cas pour moi, mais à défaut, je pense qu&rsquo;il faut avancer sur les bons rails pour progresser.
+[<img class="alignleft size-medium wp-image-372" alt="idee recue" src="{{ site.baseurl }}/wp-content/upload/idee-recue-300x219.png" width="300" height="219" srcset="{{ site.baseurl }}/wp-content/upload/idee-recue-300x219.png 300w, {{ site.baseurl }}/wp-content/upload/idee-recue.png 450w" sizes="(max-width: 300px) 100vw, 300px" />]({{ site.baseurl }}/wp-content/upload/idee-recue.png)
+
+Après une tournée qui m&rsquo;a mené aux Agile Tour de Marseille et Bordeaux, j&rsquo;ai éprouvé le besoin de faire un peu le point sur TDD, ou en tout cas sur ma compréhension de TDD. Je pense en effet qu&rsquo;il y a quelques idées reçues sur cette pratique qu&rsquo;il faut assez vite dépasser au risque de ne pas arriver à la maîtriser  C&rsquo;est encore loin d&rsquo;être le cas pour moi, mais à défaut, je pense qu&rsquo;il faut avancer sur les bons rails pour progresser.
 
 <!--more-->
 

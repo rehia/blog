@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=183
 permalink: /lagile-cest-comme-les-frites-mccain/
+excerpt_separator: <!--more-->
 categories:
   - Agile
 tags:

@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=244
 permalink: /agilite-banyuls-rugby-aosud/
+excerpt_separator: <!--more-->
 image: /wp-content/upload/Banyuls.jpg
 categories:
   - Agile
@@ -23,9 +24,9 @@ tags:
 <div id="attachment_246" style="width: 220px" class="wp-caption alignleft">
   <a href="{{ site.baseurl }}/agilite-banyuls-rugby-aosud/banyuls/" rel="attachment wp-att-246"><img aria-describedby="caption-attachment-246" class=" wp-image-246 " title="Banyuls" src="{{ site.baseurl }}/wp-content/upload/Banyuls-300x239.jpg" alt="" width="210" height="167" srcset="{{ site.baseurl }}/wp-content/upload/Banyuls-300x239.jpg 300w, {{ site.baseurl }}/wp-content/upload/Banyuls-1024x816.jpg 1024w" sizes="(max-width: 210px) 100vw, 210px" /></a>
   
-  <p id="caption-attachment-246" class="wp-caption-text">
+  <small id="caption-attachment-246" class="wp-caption-text">
     Vue de l'hôtel
-  </p>
+  </small>
 </div>
 
 Voilà un moment que je n&rsquo;oublierai pas de sitôt ! Et un moment que j&rsquo;attendais particulièrement ! C&rsquo;était effectivement l&rsquo;occasion de pouvoir échanger en face-à-face, notre mode de communication préféré, avec des personnes ayant une longue expérience de l&rsquo;Agile, mais aussi des histoires et des trajectoires différentes. Et c&rsquo;est justement cette diversité qui a alimenté les discussions que nous avons eues.

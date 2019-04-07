@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=318
 permalink: /de-retour-dagile-france/
+excerpt_separator: <!--more-->
 categories:
   - Non classé
 ---

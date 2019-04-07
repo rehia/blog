@@ -7,6 +7,7 @@ excerpt: "C'est parti pour le lancement officiel de Genba !"
 layout: post
 guid: http://www.avoustin.com/blog/?p=1
 permalink: /bonjour-tout-le-monde/
+excerpt_separator: <!--more-->
 categories:
   - Non classé
 tags:

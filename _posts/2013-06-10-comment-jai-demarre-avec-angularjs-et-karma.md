@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=407
 permalink: /comment-jai-demarre-avec-angularjs-et-karma/
+excerpt_separator: <!--more-->
 Hide SexyBookmarks:
   - "0"
 Hide OgTags:
@@ -27,7 +28,9 @@ tags:
   - yo
 ---
 
-[<img class="size-full wp-image-420 alignleft" alt="logo billet angular" src="{{ site.baseurl }}/wp-content/upload/logo-billet-angular.png" width="326" height="252" srcset="{{ site.baseurl }}/wp-content/upload/logo-billet-angular.png 326w, {{ site.baseurl }}/wp-content/upload/logo-billet-angular-300x231.png 300w" sizes="(max-width: 326px) 100vw, 326px" />]({{ site.baseurl }}/wp-content/upload/logo-billet-angular.png)Depuis quelques semaines, j&rsquo;essaye de réellement sortir de ma zone de confort, et découvrir autre chose que .NET et C#. C&rsquo;est ce que j&rsquo;avais déjà entrepris en fin d&rsquo;année dernière en développant une application que nous avons utilisée pour l&rsquo;Agile Tour Montpellier en Java avec Play Framework. Je pourrai vous faire un retour sur cette expérience un peu plus tard. En attendant, j&rsquo;ai souhaité poursuivre cette ouverture en redécouvrant JavaScript, et essayer d&rsquo;avoir un aperçu de l&rsquo;état de l&rsquo;art de la plateforme.
+[<img class="size-full wp-image-420 alignleft" alt="logo billet angular" src="{{ site.baseurl }}/wp-content/upload/logo-billet-angular.png" width="326" height="252" srcset="{{ site.baseurl }}/wp-content/upload/logo-billet-angular.png 326w, {{ site.baseurl }}/wp-content/upload/logo-billet-angular-300x231.png 300w" sizes="(max-width: 326px) 100vw, 326px" />]({{ site.baseurl }}/wp-content/upload/logo-billet-angular.png)
+
+Depuis quelques semaines, j&rsquo;essaye de réellement sortir de ma zone de confort, et découvrir autre chose que .NET et C#. C&rsquo;est ce que j&rsquo;avais déjà entrepris en fin d&rsquo;année dernière en développant une application que nous avons utilisée pour l&rsquo;Agile Tour Montpellier en Java avec Play Framework. Je pourrai vous faire un retour sur cette expérience un peu plus tard. En attendant, j&rsquo;ai souhaité poursuivre cette ouverture en redécouvrant JavaScript, et essayer d&rsquo;avoir un aperçu de l&rsquo;état de l&rsquo;art de la plateforme.
 
 Et je dois avouer que prendre le train en route n&rsquo;est pas chose aisée. Quel foisonnement ! C&rsquo;est incroyable de voir toutes les initiatives prises pour permettre le développement d&rsquo;applications entières en Javascript, même côté serveur. Il est loin le temps où, peu avant l&rsquo;avènement de frameworks comme jQuery, beaucoup de gens enterraient ce langage que peu de monde ne comprenait et n&rsquo;avait vraiment envie de maîtriser. On peut se rendre compte de cette effervescence par exemple <a title="JSDB.io" href="http://www.jsdb.io/?sort=rating" target="_blank">sur le site JSDB.io</a>, ou encore <a title="InfoQ JS Frameworks" href="http://www.infoq.com/research/top-javascript-mvc-frameworks" target="_blank">à travers cette enquête de InfoQ</a>. Difficile pour un néophyte, ou même quelqu&rsquo;un qui redécouvre, de se faire une idée. En cherchant un peu, je me suis rendu compte que beaucoup de monde disait du bien d&rsquo;AngularJS. J&rsquo;ai donc décidé d&rsquo;y investir du temps, et de monter une plateforme de développement.<!--more-->
 

@@ -6,6 +6,7 @@ author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=297
 permalink: /de-retour-de-mix-it-lyon/
+excerpt_separator: <!--more-->
 categories:
   - Agile
 tags:
