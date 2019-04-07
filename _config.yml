@@ -3,3 +3,4 @@ description: Old and recent learnings and thoughts
 show_downloads: false
 google_analytics: UA-20689338-1
 theme: jekyll-theme-architect
+baseurl: /blog
