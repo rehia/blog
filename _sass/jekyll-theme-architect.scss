@@ -32,7 +32,6 @@ header {
 }
 
 header h1 {
-  width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
@@ -43,7 +42,6 @@ header h1 {
 }
 
 header h2 {
-  width: 540px;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 26px;
@@ -54,9 +52,23 @@ header h2 {
 }
 
 .inner {
+  display: grid;
+  grid-template-columns: 540px 400px;
   position: relative;
   width: 940px;
   margin: 0 auto;
+}
+.inner div.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inner div.social a {
+  margin-right: 30px;
+}
+.inner div.social img {
+  width: 80px;
+  height: 80px;
 }
 
 #content-wrapper {
@@ -92,26 +104,6 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
-a.button {
-  width: 134px;
-  height: 58px;
-  padding-top: 22px;
-  padding-left: 68px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 23px;
-  line-height: 1.2;
-  color: #fff;
-}
-a.button small {
-  display: block;
-  font-size: 11px;
-}
-header a.button {
-  position: absolute;
-  top: 0;
-  right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
 aside a.button {
   display: block;
   width: 138px;
