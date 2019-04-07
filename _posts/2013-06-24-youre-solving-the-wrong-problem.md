@@ -27,9 +27,9 @@ tags:
 <div style="width: 266px" class="wp-caption alignleft">
   <img class="  " alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_maccready.jpg" width="256" height="204" />
   
-  <p class="wp-caption-text">
+  <small class="wp-caption-text">
     Paul MacCready et l&rsquo;anneau de vitesse
-  </p>
+  </small>
 </div>
 
 La lecture d&rsquo;un article racontant l&rsquo;histoire de l&rsquo;ingénieur Paul MacCready, <a href="http://www.azarask.in/blog/post/the-wrong-problem/" target="_blank">article que vous pouvez retrouver ici</a>,  a été l&rsquo;un de ceux qui m&rsquo;a le plus marqué. Aujourd&rsquo;hui encore, je raconte cette fabuleuse histoire dans mes formations ou séminaires sur l&rsquo;Agile. Juste après le Marshmallow Challenge :). Je vous invite d&rsquo;ailleurs à la lire avant de poursuivre la lecture de ce billet.

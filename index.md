@@ -7,7 +7,7 @@ layout: default
   <h1>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   </h1>
-  <small>{{ post.date }}</small>
+  <small>{{ post.date | date_to_long_string }}</small>
   <p>{{ post.excerpt }}</p>
   <a href="{{ site.baseurl }}{{ post.url }}">Lire le post...</a>
   <hr />
