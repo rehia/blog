@@ -2,6 +2,7 @@
 id: 183
 title: 'L&rsquo;Agile c&rsquo;est comme les frites McCain&#8230;'
 date: 2011-07-11T11:15:59+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=183

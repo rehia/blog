@@ -2,6 +2,7 @@
 id: 117
 title: Le Cloud est-il sûr ?
 date: 2011-04-19T10:53:15+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=117

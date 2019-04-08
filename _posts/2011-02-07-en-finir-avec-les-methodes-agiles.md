@@ -2,6 +2,7 @@
 id: 85
 title: En finir avec les méthodes agiles !
 date: 2011-02-07T22:55:57+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=85

@@ -2,6 +2,7 @@
 id: 388
 title: 'L&rsquo;Abstract Factory c&rsquo;est bien, l&rsquo;utiliser, c&rsquo;est plus compliqué'
 date: 2013-03-13T10:02:45+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=388

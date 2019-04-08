@@ -2,6 +2,7 @@
 id: 102
 title: 'WordPress 3.1 : mais où sont passés mes meta-données ?'
 date: 2011-04-18T17:49:52+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=102

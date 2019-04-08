@@ -2,6 +2,7 @@
 id: 378
 title: eXtreme « Selection »
 date: 2013-02-08T13:56:43+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=378

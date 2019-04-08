@@ -2,6 +2,7 @@
 id: 244
 title: 'Agilité, Banyuls &#038; Rugby : AOSud !'
 date: 2012-03-28T01:06:19+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=244

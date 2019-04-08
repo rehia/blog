@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% assign blogposts = site.posts | where: "type","blogpost" %}
+{% for post in blogposts %}
 <div class="row" style="margin-bottom: 30px;">
   <h1>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

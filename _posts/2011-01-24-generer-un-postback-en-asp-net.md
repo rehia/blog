@@ -2,6 +2,7 @@
 id: 15
 title: Générer un PostBack en ASP.NET
 date: 2011-01-24T22:34:33+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=15

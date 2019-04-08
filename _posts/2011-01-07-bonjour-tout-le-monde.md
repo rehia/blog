@@ -2,6 +2,7 @@
 id: 1
 title: Bienvenue sur Genba !
 date: 2011-01-07T14:07:15+02:00
+type: blogpost
 author: Jérôme
 excerpt: "C'est parti pour le lancement officiel de Genba !"
 layout: post

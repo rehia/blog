@@ -2,6 +2,7 @@
 id: 407
 title: 'Comment j&rsquo;ai démarré avec AngularJS et Karma&#8230;'
 date: 2013-06-10T09:34:31+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=407

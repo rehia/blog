@@ -2,6 +2,7 @@
 id: 297
 title: De retour de Mix-IT Lyon
 date: 2012-05-03T09:48:03+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=297

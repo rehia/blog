@@ -2,6 +2,7 @@
 id: 132
 title: Je soutiens le référentiel des pratiques agiles !!
 date: 2011-05-02T14:18:05+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=132

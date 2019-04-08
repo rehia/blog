@@ -2,6 +2,7 @@
 id: 304
 title: 'Tests unitaires et TDD : Aidez moi ! Je suis bloqué !'
 date: 2012-05-09T10:15:17+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=304

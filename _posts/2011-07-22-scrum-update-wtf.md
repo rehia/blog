@@ -2,6 +2,7 @@
 id: 202
 title: 'Scrum Update : WTF ?'
 date: 2011-07-22T12:26:30+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=202

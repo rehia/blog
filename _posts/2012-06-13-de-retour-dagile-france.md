@@ -2,6 +2,7 @@
 id: 318
 title: 'De retour d&rsquo;Agile France'
 date: 2012-06-13T10:05:11+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=318

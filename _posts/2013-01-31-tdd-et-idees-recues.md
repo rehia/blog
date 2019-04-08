@@ -2,6 +2,7 @@
 id: 367
 title: TDD et idées reçues
 date: 2013-01-31T10:02:08+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=367

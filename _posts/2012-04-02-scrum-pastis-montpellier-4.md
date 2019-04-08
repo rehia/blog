@@ -2,6 +2,7 @@
 id: 264
 title: 'Scrum Pastis Montpellier #4'
 date: 2012-04-02T10:48:07+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=264

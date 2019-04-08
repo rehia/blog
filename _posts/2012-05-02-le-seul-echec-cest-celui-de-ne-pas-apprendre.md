@@ -2,6 +2,7 @@
 id: 275
 title: 'Le seul échec, c&rsquo;est celui de ne pas apprendre'
 date: 2012-05-02T09:55:13+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=275

@@ -2,6 +2,7 @@
 id: 425
 title: 'You&rsquo;re solving the wrong problem'
 date: 2013-06-24T09:42:23+02:00
+type: blogpost
 author: Jérôme
 layout: post
 guid: http://blog.avoustin.com/?p=425
