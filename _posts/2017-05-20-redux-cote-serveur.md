@@ -3,7 +3,7 @@ layout: post
 title: Comment redux a fini sur mon serveur ?
 date: 2017-05-20T15:00:00+02:00
 type: conf
-description: Ce talk, donné conjointement avec Franck Ernewein, est un retour d'expérience de quelques principes et patterns intéressants que nous avons découverts lors de l'implémentation d'une version de Tweetping, et qui met en oeuvre Node.js, React, des patterns DDD, event sourcing et, bien entendu, Redux.
+description: Ce talk, donné conjointement avec Franck Ernewein, est un retour d'expérience de quelques principes et patterns intéressants que nous avons découverts lors de l'implémentation d'une version de Tweetping, et qui met en oeuvre Node.js, React, des patterns DDD, event sourcing et, bien entendu, Redux. Donné lors du NoJUGDay Montpellier, en 2017, et à plusieurs reprises dans quelques meetups.
 public: développeurs, architectes, CTO
 video: youtube
 youtube-id: wWKoTegvE_Q

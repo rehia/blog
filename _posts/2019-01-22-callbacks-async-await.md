@@ -14,4 +14,3 @@ Pendant longtemps, JavaScript s'en est tenu au principe de callbacks pour la ges
 Mais comment en est-on arrivé là ? Quelles avancées ont permis d'obtenir cela ?
 
 Nous verrons cela lors d'une session de live coding pour revenir ou présenter quelques concepts clés de JS, comme les promesses, ou la plus belle évolution de JS depuis sa création : les générateurs.
-
